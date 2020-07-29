@@ -8,7 +8,7 @@ Internet Governance Enthusiast
 
 ## About me
 
-🎧 Music | 📚 Livros | 💻 Programming
+🎧 Music | 📚 Books | 💻 Programming
 
 - 🌎 I'm from  Manaus, Amazonas - Brasil
 - 🎮 I like to play video games
@@ -16,9 +16,9 @@ Internet Governance Enthusiast
   
 ### Projects
 
-- [Personal blog]([https](https://ingridl-santos.github.io/)) generated with Pelican and Github Pages
+- [Personal blog](https://ingridl-santos.github.io/) generated with Pelican and Github Pages
 - [Bot](https://github.com/ingridl-santos/twitter-bot) for Twitter made with Python and Tweepy
-- [SaintFlix](https://saintflix.vercel.app/) a netflix clone made with React and deploy at Vercel during #ImersãoReact by [Alura Cursos](https://www.alura.com.br/) 
+- [SaintFlix](https://saintflix.vercel.app/) a netflix clone made with React and deploy at Vercel during #ImersãoReact by [Alura Cursos](https://www.alura.com.br/)
 
 #### Knowledge 👩‍💻
 
