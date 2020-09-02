@@ -11,6 +11,7 @@ Internet Governance Enthusiast
 🎧 Music | 📚 Books | 💻 Programming
 
 - 🌎 I'm from  Manaus, Amazonas - Brasil
+- 🏠 Currently living in Curitiba, Paraná - Brasil
 - 🎮 I like to play video games
 - 📚 I'm always studying something new
   
