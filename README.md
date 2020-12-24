@@ -1,6 +1,6 @@
 # Ingrid Santos 🐼
 
-Dev Frontend | 👩‍🎓 Computer Science (final year)
+Software Developer | 👩‍🎓 Computer Science (final year)
 
 Information Security Researcher
 
@@ -17,7 +17,6 @@ Internet Governance Enthusiast
   
 ### Projects
 
-- [Personal blog](https://ingridl-santos.github.io/) generated with Pelican and Github Pages
 - [Bot](https://github.com/ingridl-santos/twitter-bot) for Twitter made with Python and Tweepy
 - [SaintFlix](https://saintflix.vercel.app/) a netflix clone made with React and deploy at Vercel during #ImersãoReact by [Alura Cursos](https://www.alura.com.br/)
 
@@ -54,7 +53,6 @@ Internet Governance Enthusiast
 
 #### Connect with me 📫
 
-[![Blog Badge](https://img.shields.io/badge/Blog-14A0C4?style=flat-square&logo=Pelican&logoColor=white&link=https://ingridl-santos.github.io/)](https://ingridl-santos.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingrid.lds15@gmail.com)](mailto:ingrid.lds15@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ingrid-l-santos/)](https://linkedin.com/in/ingrid-l-santos/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ingrid_santos)](https://t.me/ingrid_santos)
