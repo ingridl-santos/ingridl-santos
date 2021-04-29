@@ -2,7 +2,7 @@
 
 Software Developer | 👩‍🎓 Computer Science (final year)
 
-Information Security Researcher
+Aspiring Information Security Researcher
 
 Internet Governance Enthusiast
 
