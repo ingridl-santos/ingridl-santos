@@ -15,7 +15,7 @@
   <a href="https://app.daily.dev/DailyDevTips">
     <img 
       src="https://github.com/ingridl-santos/ingridl-santos/blob/master/devcard.svg"
-      width="400"
+      width="350"
       align="right"
       alt="Ingrid Santos's Dev Card"
      />
@@ -60,11 +60,3 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
-
-##### Editor
-
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-
-#### Connect with me 📫
-
-
