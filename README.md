@@ -15,7 +15,7 @@ Internet Governance Enthusiast
 - 🎮 I like to play video games
 - 📚 I'm always studying something new
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ingridl-santos/ingridl-santos/blob/master/devcard.svg" width="400" alt="Ingrid Santos's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ingridl-santos/ingridl-santos/blob/master/devcard.svg" width="300" alt="Ingrid Santos's Dev Card"/></a>
   
 ### Projects
 
