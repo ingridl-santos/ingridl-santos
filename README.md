@@ -1,6 +1,6 @@
 # Ingrid Santos 🐼
 
-Software Developer | 👩‍🎓 Computer Science (final year)
+Software Developer | 👩‍🎓 Computer Science (final year)                                    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ingridl-santos/ingridl-santos/blob/master/devcard.svg" width="400" alt="Ingrid Santos's Dev Card"/></a>
 
 Aspiring Information Security Researcher
 
@@ -14,8 +14,6 @@ Internet Governance Enthusiast
 - 🏠 Currently living in Curitiba, Paraná - Brasil
 - 🎮 I like to play video games
 - 📚 I'm always studying something new
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ingridl-santos/ingridl-santos/blob/master/devcard.svg" width="300" alt="Ingrid Santos's Dev Card"/></a>
   
 ### Projects
 
