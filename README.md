@@ -1,19 +1,33 @@
-# Ingrid Santos 🐼
+# Hello, hello! 👋
+<div align="left">
+  <a href="https://twitter.com/ingridl_santos">
+    <img
+      src="https://img.shields.io/twitter/follow/ingridl_santos?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://linkedin.com/in/ingrid-l-santos/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://app.daily.dev/DailyDevTips">
+    <img 
+      src="https://github.com/ingridl-santos/ingridl-santos/blob/master/devcard.svg"
+      width="400"
+      align="right"
+      alt="Ingrid Santos's Dev Card"
+     />
+  </a>
+</div>
 
-Software Developer | 👩‍🎓 Computer Science (final year)                                    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ingridl-santos/ingridl-santos/blob/master/devcard.svg" width="400" alt="Ingrid Santos's Dev Card"/></a>
+## I am Ingrid Santos
 
-Aspiring Information Security Researcher
-
-Internet Governance Enthusiast
-
-## About me
-
-🎧 Music | 📚 Books | 💻 Programming
-
-- 🌎 I'm from  Manaus, Amazonas - Brasil
-- 🏠 Currently living in Curitiba, Paraná - Brasil
-- 🎮 I like to play video games
-- 📚 I'm always studying something new
+- Software Developer at [Wiley](https://www.wiley.com/en-us)
+- BSc. Computer Science 
+- Aspiring Information Security Researcher
+- Internet Governance Enthusiast
   
 ### Projects
 
@@ -53,7 +67,4 @@ Internet Governance Enthusiast
 
 #### Connect with me 📫
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingrid.lds15@gmail.com)](mailto:ingrid.lds15@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ingrid-l-santos/)](https://linkedin.com/in/ingrid-l-santos/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ingrid_santos)](https://t.me/ingrid_santos)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ingridl_santos)](https://twitter.com/ingridl_santos)
+
