@@ -61,4 +61,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
 
-
+### Playing on Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12155323716&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12155323716&redirect=true)
