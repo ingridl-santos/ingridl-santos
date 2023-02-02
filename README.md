@@ -61,6 +61,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
