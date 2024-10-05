@@ -1,19 +1,8 @@
 # Hello, hello! 👋
+
 <div align="left">
-  <a href="https://twitter.com/ingridl_santos">
-    <img
-      src="https://img.shields.io/twitter/follow/ingridl_santos?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://linkedin.com/in/ingridl-santos/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
   <a href="https://app.daily.dev/ingridsantos">
-    <img 
+    <img
       src="https://api.daily.dev/devcards/a494d0233e714fafb02065b83adbe0a8.png?r=uzd"
       width="350"
       align="right"
@@ -22,44 +11,92 @@
   </a>
 </div>
 
-## I am Ingrid Santos
+![GitHub followers](https://img.shields.io/github/followers/ingridl-santos?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/ingridl-santos?style=social)
 
-- Software Developer at [Wiley](https://www.wiley.com/en-us)
-- BSc. Computer Science 
-- Aspiring Information Security Researcher
-- Internet Governance Enthusiast
-  
-### Projects
+## About Me
 
-- [Bot](https://github.com/ingridl-santos/twitter-bot) for Twitter made with Python and Tweepy
-- [SaintFlix](https://saintflix.vercel.app/) a netflix clone made with React and deploy at Vercel during #ImersãoReact by [Alura Cursos](https://www.alura.com.br/)
+I am Ingrid Santos, a dedicated Software Engineer focusing on frontend development at [Wiley](https://www.wiley.com/en-us). I hold a Bachelor's degree in Computer Science and possess strong scientific research skills in data privacy and security. Additionally, I have a keen interest in education in computing and am an enthusiastic advocate for internet governance.
 
-#### Knowledge 👩‍💻
+## Skills
 
-##### Frontend
+Here are some of the technologies I have professional knowledge in:
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=222)
+### Languages
 
-##### Database & Deploy
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
+</div>
 
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+### Frameworks/Libraries
 
-##### Others
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" height="40"/>
+</div>
 
-![Android](https://img.shields.io/badge/-android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
+### Tools
 
-### Playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12155323716&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12155323716&redirect=true)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+</div>
+
+### Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+</div>
+
+## Projects
+
+### [Twitter Bot](https://github.com/ingridl-santos/twitter-bot)
+
+A bot for Twitter made with Python and Tweepy. This bot automates the task of reposting tweets based on specific subjects or hashtags. It helps in curating and sharing content relevant to particular topics efficiently.
+
+### [SaintFlix](https://saintflix.vercel.app/)
+
+A Netflix clone made with React and deployed on Vercel during #ImersãoReact by [Alura Cursos](https://www.alura.com.br). This project showcases my skills in React and web development.
+
+## Roadmap
+
+Check out my learning journey and future plans on [roadmap.sh](https://roadmap.sh):
+
+[![roadmap.sh](https://roadmap.sh/card/tall/649c9727d99c9d67319df6e4?variant=dark)](https://roadmap.sh)
+
+## Contact
+
+Feel free to reach out to me via any of the platforms below:
+
+<div align="left">
+  <a href="mailto:ingrid.lds15@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/ingridl-santos/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/ingridl_santos">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://bsky.app/profile/isantos.bsky.social">
+    <img src="https://skillicons.dev/icons?i=bluesky" alt="Bluesky" width="40" height="40"/>
+  </a>
+</div>
+
+---
+
+*This README was generated with ❤️ by Ingrid Santos.*
