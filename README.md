@@ -16,7 +16,9 @@
 
 ## About Me
 
-I am Ingrid Santos, a dedicated Software Engineer focusing on frontend development at [Wiley](https://www.wiley.com/en-us). I hold a Bachelor's degree in Computer Science and possess strong scientific research skills in data privacy and security. Additionally, I have a keen interest in education in computing and am an enthusiastic advocate for internet governance.
+I am Ingrid Santos, a dedicated Software Engineer focusing on frontend development at [Wiley](https://www.wiley.com/en-us). 
+I hold a Bachelor's degree in Computer Science and possess strong scientific research skills in data privacy and security. 
+Additionally, I have a keen interest in education in computing and am an enthusiastic advocate for internet governance.
 
 ## Skills
 
