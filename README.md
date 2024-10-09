@@ -2,12 +2,12 @@
 
 <div align="left">
   <a href="https://app.daily.dev/ingridsantos">
-    <img
-      src="https://api.daily.dev/devcards/a494d0233e714fafb02065b83adbe0a8.png?r=uzd"
+    <img 
+      src="https://api.daily.dev/devcards/v2/_lkh2rlai.png?type=default&r=5g8" 
       width="350"
-      align="right"
+      align="right" 
       alt="Ingrid Santos's Dev Card"
-     />
+    />
   </a>
 </div>
 
