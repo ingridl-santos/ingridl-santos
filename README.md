@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://app.daily.dev/ingridsantos">
     <img 
-      src="https://api.daily.dev/devcards/v2/_lkh2rlai.png?type=default&r=5g8" 
+      src="https://api.daily.dev/devcards/v2/_lkh2rlai.png?type=default&r=5g8"
       width="350"
       align="right" 
       alt="Ingrid Santos's Dev Card"
