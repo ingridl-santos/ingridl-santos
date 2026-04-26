@@ -1,88 +1,176 @@
-# Hello, hello! 👋
+# Ingrid Santos
 
-<div align="left">
-  <a href="https://app.daily.dev/ingridsantos">
-    <img 
-      src="https://api.daily.dev/devcards/v2/_lkh2rlai.png?type=default&r=5g8"
-      width="350"
-      align="right" 
-      alt="Ingrid Santos's Dev Card"
-    />
-  </a>
-</div>
+Software Engineer building scalable systems, with strong expertise in frontend architecture and growing focus on backend and system design.
 
-![GitHub followers](https://img.shields.io/github/followers/ingridl-santos?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/ingridl-santos?style=social)
+---
 
-## About Me
+## 🧭 About Me
 
-I am Ingrid Santos, a dedicated Software Engineer focusing on frontend development at [Wiley](https://www.wiley.com/en-us). 
-I hold a Bachelor's degree in Computer Science and possess strong scientific research skills in data privacy and security. 
-Additionally, I have a keen interest in education in computing and am an enthusiastic advocate for internet governance.
+I design and build applications with a focus on **scalability, maintainability, and developer experience**.
 
-## Skills
+While my core strength is frontend engineering, I actively work across the stack to better understand how systems behave end-to-end — from UI to APIs and infrastructure.
 
-Here are some of the technologies I have professional knowledge in:
+---
 
-### Languages
+## 🚀 Current Focus
 
-<div align="left">
+- Architecting scalable frontend systems (React + TypeScript)
+- Expanding backend knowledge (APIs, data flow, system design)
+- Improving performance and reliability of applications
+- Strengthening end-to-end thinking across the stack
+
+---
+
+## 🛠️ Technical Expertise
+
+### Frontend Architecture
+
+<table><tr><td valign="top">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/><br/>
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" width="40" height="40"/><br/>
+</td><td valign="top">
+
+- Scalable and modular project structures
+- Design systems
+- State management and API integration strategies
+
+</td></tr></table>
+
+### Backend & Tools
+
+<table><tr><td valign="top">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
-</div>
-
-### Frameworks/Libraries
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" height="40"/>
-</div>
-
-### Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" height="40"/>
+</td><td valign="top">
+
+- REST API design and integration
+- Authentication & authorization flows
+- Data modeling fundamentals
+
+</td></tr></table>
+
+### Engineering Practices
+
+<table><tr><td valign="top">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/><br/>
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
-</div>
+</td><td valign="top">
 
-### Databases
+- CI/CD pipelines
+- Code reviews and collaboration
+- Advanced Git workflows
+- Debugging and production issue analysis
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-</div>
+</td></tr></table>
 
-## Projects
+---
+
+## 📌 Featured Work
+
+### 🏈 Flag Football Analyzer
+
+🔗 [flag-football-analyzer.vercel.app](https://flag-football-analyzer.vercel.app/)
+
+A tool designed to simplify video cutting and play tagging workflows for game analysis.
+
+**What makes it interesting:**
+
+- Designed a tagging system compatible with external platforms (Hudl-style workflows)
+- Focused on reducing manual effort and improving usability
+- Built with performance and real-world usage in mind
+
+#### 🏗️ Architecture Overview
+
+```mermaid
+flowchart LR
+    A[User Interface (React)] --> B[State Management]
+    B --> C[Tagging Engine]
+    C --> D[Video Processing Logic]
+    D --> E[Export Formatter]
+    E --> F[External Tools (e.g., Hudl)]
+    B --> G[Local Storage / Session Data]
+```
+
+**Key ideas behind the design:**
+
+- Separation between UI, tagging logic, and export layer
+- Flexible tagging structure to support external integrations
+- Local-first approach for fast interaction and responsiveness
+
+**Trade-offs considered:**
+
+- Simplicity vs flexibility in tagging structure
+- Local processing vs backend support
+- Performance vs feature richness
 
 ### [Twitter Bot](https://github.com/ingridl-santos/twitter-bot)
 
-A bot for Twitter made with Python and Tweepy. This bot automates the task of reposting tweets based on specific subjects or hashtags. It helps in curating and sharing content relevant to particular topics efficiently.
+A Python + Tweepy bot that automates content curation by reposting tweets based on specific subjects or hashtags.
 
 ### [SaintFlix](https://saintflix.vercel.app/)
 
-A Netflix clone made with React and deployed on Vercel during #ImersãoReact by [Alura Cursos](https://www.alura.com.br). This project showcases my skills in React and web development.
+A Netflix clone built with React during #ImersãoReact by [Alura Cursos](https://www.alura.com.br).
 
-## Roadmap
+---
 
-Check out my learning journey and future plans on [roadmap.sh](https://roadmap.sh):
+## 🏗️ System Thinking
 
-[![roadmap.sh](https://roadmap.sh/card/tall/649c9727d99c9d67319df6e4?variant=dark)](https://roadmap.sh)
+Even in frontend-heavy applications, I think about:
 
-## Contact
+- Data flow between UI and backend services
+- Trade-offs between performance and complexity
+- Structuring applications for scalability and maintainability
 
-Feel free to reach out to me via any of the platforms below:
+---
+
+## 🧠 Engineering Mindset
+
+- I build systems, not just features
+- I optimize for clarity and long-term maintainability
+- I value debuggability and simplicity in complex systems
+- I think across boundaries (frontend ↔ backend)
+
+---
+
+## ⚡ What I Care About
+
+- Systems that scale without becoming fragile
+- Reducing complexity for developers
+- Making debugging easier, not harder
+
+---
+
+## 📈 Learning Journey
+
+<div align="left">
+  <a href="https://app.daily.dev/ingridsantos">
+    <img
+      src="https://api.daily.dev/devcards/v2/_lkh2rlai.png?type=default&r=5g8"
+      height="400"
+      alt="Ingrid Santos's Dev Card"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://roadmap.sh">
+    <img src="./roadmap-card.png" alt="roadmap.sh" height="400"/>
+  </a>
+</div>
+
+---
+
+## 📫 Connect
 
 <div align="left">
   <a href="mailto:ingrid.lds15@gmail.com">
@@ -93,9 +181,6 @@ Feel free to reach out to me via any of the platforms below:
   </a>
   <a href="https://twitter.com/ingridl_santos">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://bsky.app/profile/isantos.bsky.social">
-    <img src="https://skillicons.dev/icons?i=bluesky" alt="Bluesky" width="40" height="40"/>
   </a>
 </div>
 
