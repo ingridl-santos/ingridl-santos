@@ -26,12 +26,7 @@ While my core strength is frontend engineering, I actively work across the stack
 ### Frontend Architecture
 
 <table><tr><td valign="top">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/><br/>
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" width="40" height="40"/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,redux,materialui&perline=3" alt="Frontend skills"/>
 </td><td valign="top">
 
 - Scalable and modular project structures
@@ -43,12 +38,7 @@ While my core strength is frontend engineering, I actively work across the stack
 ### Backend & Tools
 
 <table><tr><td valign="top">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,mysql,mongodb,docker,selenium&perline=3" alt="Backend skills"/>
 </td><td valign="top">
 
 - REST API design and integration
@@ -60,12 +50,7 @@ While my core strength is frontend engineering, I actively work across the stack
 ### Engineering Practices
 
 <table><tr><td valign="top">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub Actions" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/><br/>
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,vite,vscode,figma&perline=3" alt="Engineering practices skills"/>
 </td><td valign="top">
 
 - CI/CD pipelines
@@ -95,11 +80,11 @@ A tool designed to simplify video cutting and play tagging workflows for game an
 
 ```mermaid
 flowchart LR
-    A[User Interface (React)] --> B[State Management]
+    A["User Interface (React)"] --> B[State Management]
     B --> C[Tagging Engine]
     C --> D[Video Processing Logic]
     D --> E[Export Formatter]
-    E --> F[External Tools (e.g., Hudl)]
+    E --> F["External Tools (e.g., Hudl)"]
     B --> G[Local Storage / Session Data]
 ```
 
