@@ -137,27 +137,15 @@ Even in frontend-heavy applications, I think about:
 
 ---
 
-## 📈 Learning Journey
+## ☕ Dev Feed
 
-<div align="left">
-  <a href="https://app.daily.dev/ingridsantos">
-    <img
-      src="https://api.daily.dev/devcards/v2/_lkh2rlai.png?type=default&r=5g8"
-      height="400"
-      alt="Ingrid Santos's Dev Card"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://roadmap.sh">
-    <img src="./roadmap-card.png" alt="roadmap.sh" height="400"/>
-  </a>
-</div>
+<a href="https://app.daily.dev/ingridsantos"><img src="https://api.daily.dev/devcards/v2/_lkh2rlai.png?type=default&r=5g8" height="400" alt="Ingrid Santos's Dev Card"/></a>
 
 ---
 
 ## 📫 Connect
 
-[<img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>](mailto:ingrid.lds15@gmail.com) [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>](https://linkedin.com/in/ingridl-santos/) [<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/>](https://twitter.com/ingridl_santos) [<img src="https://skillicons.dev/icons?i=bluesky" alt="Bluesky" width="40" height="40"/>](https://bsky.app/profile/isantos.bsky.social)
+<table><tr><td><a href="mailto:ingrid.lds15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/></a></td><td><a href="https://linkedin.com/in/ingridl-santos/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/></a></td><td><a href="https://twitter.com/ingridl_santos"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/></a></td><td><a href="https://bsky.app/profile/isantos.bsky.social"><img src="https://skillicons.dev/icons?i=bluesky" alt="Bluesky" width="40" height="40"/></a></td></tr></table>
 
 ---
 
