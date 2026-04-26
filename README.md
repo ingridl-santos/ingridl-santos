@@ -157,17 +157,7 @@ Even in frontend-heavy applications, I think about:
 
 ## 📫 Connect
 
-<div align="left">
-  <a href="mailto:ingrid.lds15@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/ingridl-santos/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/ingridl_santos">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/>
-  </a>
-</div>
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>](mailto:ingrid.lds15@gmail.com) [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>](https://linkedin.com/in/ingridl-santos/) [<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/>](https://twitter.com/ingridl_santos) [<img src="https://skillicons.dev/icons?i=bluesky" alt="Bluesky" width="40" height="40"/>](https://bsky.app/profile/isantos.bsky.social)
 
 ---
 
