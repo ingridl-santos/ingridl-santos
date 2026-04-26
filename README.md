@@ -145,7 +145,7 @@ Even in frontend-heavy applications, I think about:
 
 ## 📫 Connect
 
-<a href="mailto:ingrid.lds15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/></a><a href="https://linkedin.com/in/ingridl-santos/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/></a><a href="https://twitter.com/ingridl_santos"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/></a>
+<table border="0" cellspacing="0" cellpadding="8"><tr><td><a href="mailto:ingrid.lds15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/></a></td><td><a href="https://linkedin.com/in/ingridl-santos/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/></a></td><td><a href="https://twitter.com/ingridl_santos"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/></a></td></tr></table>
 
 ---
 
