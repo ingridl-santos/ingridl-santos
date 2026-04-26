@@ -10,14 +10,7 @@ I design and build applications with a focus on **scalability, maintainability, 
 
 While my core strength is frontend engineering, I actively work across the stack to better understand how systems behave end-to-end — from UI to APIs and infrastructure.
 
----
-
-## 🚀 Current Focus
-
-- Architecting scalable frontend systems (React + TypeScript)
-- Expanding backend knowledge (APIs, data flow, system design)
-- Improving performance and reliability of applications
-- Strengthening end-to-end thinking across the stack
+> **Currently focused on:** architecting scalable frontend systems (React + TypeScript), expanding backend knowledge, and strengthening end-to-end thinking.
 
 ---
 
@@ -110,30 +103,11 @@ A Netflix clone built with React during #ImersãoReact by [Alura Cursos](https:/
 
 ---
 
-## 🏗️ System Thinking
+## 🧠 How I Think
 
-Even in frontend-heavy applications, I think about:
-
-- Data flow between UI and backend services
-- Trade-offs between performance and complexity
-- Structuring applications for scalability and maintainability
-
----
-
-## 🧠 Engineering Mindset
-
-- I build systems, not just features
-- I optimize for clarity and long-term maintainability
-- I value debuggability and simplicity in complex systems
-- I think across boundaries (frontend ↔ backend)
-
----
-
-## ⚡ What I Care About
-
-- Systems that scale without becoming fragile
-- Reducing complexity for developers
-- Making debugging easier, not harder
+- I build systems, not just features — thinking about data flow, trade-offs, and structure from the start
+- I optimize for clarity and long-term maintainability over short-term convenience
+- I think across boundaries (frontend ↔ backend) and care about reducing complexity for developers
 
 ---
 
